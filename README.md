@@ -1,5 +1,5 @@
 # ChaosPixel - Stable Diffusion As A Service:
-[![](./thumb.png)](https://youtu.be/55JnqNeHcQU)
+[![](./thumb.png)](https://youtu.be/L-9wMDkQkxI)
 
 
 ## GQL Getting Started:
