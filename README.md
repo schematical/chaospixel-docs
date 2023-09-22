@@ -1,6 +1,6 @@
 # ChaosPixel - Stable Diffusion As A Service:
 [![](./thumb.png)](https://youtu.be/L-9wMDkQkxI)
-
+Watch the video on YouTube for more information: https://youtu.be/L-9wMDkQkxI
 
 ## GQL Getting Started:
 ### Step 0: Signup:
